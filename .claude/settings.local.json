@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(/usr/local/mysql/bin/mysql -u root -pRa2002Ma watchshop -e \"SELECT product_id, product_name, image_url FROM products;\")"
+    ]
+  }
+}
